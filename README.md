@@ -34,12 +34,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 📊 Contribution Insights
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=atharvyasharma&theme=github_dark&hide_border=false" />
-
-</div>
-
 <!-- Author: Atharvya Sharma -->
