@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=atharvyasharma&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2F81F7&background=FFFFFF00&width=600&lines=Hello%2C+I'm+Atharvya!+%F0%9F%91%8B;Java+Full+Stack+Developer;Crafting+clean%2C+scalable%2C+and+efficient+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=2F81F7&background=FFFFFF00&width=600&lines=Hello!%2C+I'm+Atharvya%F0%9F%91%8B;Java+Full+Stack+Developer;Crafting+clean%2C+scalable%2C+and+efficient+web+apps)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvyasharma)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvyasharma19@gmail.com)
