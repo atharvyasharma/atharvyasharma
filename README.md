@@ -25,10 +25,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atharvyasharma&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 Contribution Insights
 
----
-[![](https://visitcount.itsvg.in/api?id=atharvyasharma&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvyasharma&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=false" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- author: Atharvya Sharma -->
