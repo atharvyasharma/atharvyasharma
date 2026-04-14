@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=atharvyasharma&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvyasharma)
