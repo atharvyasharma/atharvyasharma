@@ -25,8 +25,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 📊 Contribution Insights
+## 📊 Contribution Calendar
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvyasharma&bg_color=0d1117&color=2f81f7&line=2f81f7&point=ffffff&area=true&hide_border=false" />
+<img src="https://ghchart.rshah.org/atharvyasharma" alt="GitHub Contribution Chart" />
 
 <!-- author: Atharvya Sharma -->
