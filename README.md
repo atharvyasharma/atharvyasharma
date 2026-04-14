@@ -40,8 +40,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=atharvyasharma&theme=github_dark&hide_border=false" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvyasharma&theme=github_dark" />
-
 </div>
 
 <!-- Author: Atharvya Sharma -->
