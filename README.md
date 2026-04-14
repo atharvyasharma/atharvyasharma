@@ -25,4 +25,18 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 🔝 Top Repositories
+
+<div align="center">
+
+<a href="https://github.com/atharvyasharma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvyasharma&repo=REPO_NAME&theme=github_dark&hide_border=false" />
+</a>
+
+<a href="https://github.com/atharvyasharma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvyasharma&repo=REPO_NAME_2&theme=github_dark&hide_border=false" />
+</a>
+
+</div>
+
 <!-- author: Atharvya Sharma -->
