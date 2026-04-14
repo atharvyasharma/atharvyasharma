@@ -25,17 +25,13 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🔝 Top Repositories
+## 📊 Contribution Insights
 
 <div align="center">
 
-<a href="https://github.com/atharvyasharma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvyasharma&repo=REPO_NAME&theme=github_dark&hide_border=false" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=atharvyasharma&theme=github_dark&hide_border=false" />
 
-<a href="https://github.com/atharvyasharma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=atharvyasharma&repo=REPO_NAME_2&theme=github_dark&hide_border=false" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvyasharma&theme=github_dark" />
 
 </div>
 
